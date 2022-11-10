@@ -12,6 +12,6 @@
     "parse-domain": "^2.3.4"
   },
   "devDependencies": {
-    "mocha": "^7.1.0"
+    "mocha": "^10.1.0"
   }
 }
